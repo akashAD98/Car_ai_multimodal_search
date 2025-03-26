@@ -49,7 +49,9 @@ A multimodal car search engine powered by LanceDB vector database that enables s
 ### Video Demonstration
 Check out the video demonstration of the Car AI Search Engine in action. The video shows how to use both text and image search capabilities of the application.
 
-[Watch the demo video (MP4)](https://example.com/car_ai_search_demo.mp4)
+[![Car AI Search Demo Video](https://img.youtube.com/vi/wktA3EB5G8Y/0.jpg)](https://youtu.be/wktA3EB5G8Y?si=XwdpXoW0qeLNKV4i)
+
+*Click on the image above to watch the demo video on YouTube*
 
 ## 📊 Dataset
 
