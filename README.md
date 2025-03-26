@@ -16,6 +16,7 @@ A multimodal car search engine powered by LanceDB vector database that enables s
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Demo](#-demo)
+- [Dataset](#-dataset)
 - [Quick Start](#-quick-start)
 - [Technologies Used](#️-technologies-used)
 - [Prerequisites](#-prerequisites)
@@ -42,15 +43,41 @@ A multimodal car search engine powered by LanceDB vector database that enables s
 
 <div align="center">
   <img src="https://via.placeholder.com/800x400?text=Car+AI+Search+Demo" alt="Car AI Search Demo" width="800"/>
-  <p><i>Demo of the Car AI Search Engine in action (add your own demo screenshots/GIFs here)</i></p>
+  <p><i>Demo of the Car AI Search Engine in action</i></p>
 </div>
+
+### Video Demonstration
+Check out the video demonstration of the Car AI Search Engine in action. The video shows how to use both text and image search capabilities of the application.
+
+[Watch the demo video (MP4)](https://example.com/car_ai_search_demo.mp4)
+
+## 📊 Dataset
+
+The car image dataset used for this project is available on Google Drive:
+
+[Download Car Image Dataset](https://drive.google.com/drive/folders/1O10sh6VASWpqFWYRyaSBrOKIfU-S060i?usp=sharing)
+
+The dataset contains car images from various manufacturers including:
+- Audi
+- BMW
+- Honda
+- Hyundai
+- Kia
+- Mahindra
+- Maruti Suzuki
+- Mercedes-Benz
+- MG
+- Renault
+- Tata
+
+Download these images for testing the application's image search capabilities.
 
 ## 🚀 Quick Start
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/car-ai-search-engine.git
-cd car-ai-search-engine
+git clone https://github.com/akashAD98/Car_ai_multimodal_search.git
+cd Car_ai_multimodal_search
 
 # Install dependencies
 pip install -r requirements.txt
@@ -81,8 +108,8 @@ streamlit run src/app.py
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/car-ai-search-engine.git
-   cd car-ai-search-engine
+   git clone https://github.com/akashAD98/Car_ai_multimodal_search.git
+   cd Car_ai_multimodal_search
    ```
 
 2. Install the required dependencies:
@@ -128,7 +155,7 @@ The web interface will automatically open in your default browser.
 ## 🗂️ Project Structure
 
 ```
-car-ai-search-engine/
+Car_ai_multimodal_search/
 ├── data/                   # CSV data files
 │   ├── text_car_data.csv
 │   └── image_car_data.csv
@@ -211,7 +238,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-- **Akash Desai**
+- **Akash Desai** - [GitHub](https://github.com/akashAD98)
 
 ## 🙏 Acknowledgements
 
@@ -222,5 +249,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <i>This project is for educational purposes and is not affiliated with any car manufacturer.</i> 
+  <i>This project is for educational purposes and is not affiliated with any car manufacturer.</i>
+  
+  <p>Repository: <a href="https://github.com/akashAD98/Car_ai_multimodal_search">https://github.com/akashAD98/Car_ai_multimodal_search</a></p>
+  <p>Dataset: <a href="https://drive.google.com/drive/folders/1O10sh6VASWpqFWYRyaSBrOKIfU-S060i?usp=sharing">Google Drive - Car Images</a></p>
 </div> 
